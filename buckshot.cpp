@@ -1,6 +1,5 @@
-//temporary interface
 #include<iostream>
-//------------------//
+
 #include<cmath>
 #include<windows.h>
 #include<time.h>
