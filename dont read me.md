@@ -1,4 +1,0 @@
-- wassup, Im Aided
-- I’m currently learning c++ 
-- my discord user is "promushkata"
-- he/him
