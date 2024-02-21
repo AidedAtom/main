@@ -11,7 +11,7 @@ int main(){
 HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
 srand(time(NULL));
 double bal = 1.0;
-for(int i = 0; i<10000; i++){
+for(int i = 0; i<1000; i++){
 int x = rand()%10000;
     if(x==1){
         SetConsoleTextAttribute(hConsole, 4);
