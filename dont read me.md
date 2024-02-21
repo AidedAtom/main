@@ -2,5 +2,3 @@
 - I’m currently learning c++ 
 - my discord user is "promushkata"
 - he/him
-- other random info: noone cares about me im only here to yoink code
-
