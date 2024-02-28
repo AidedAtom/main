@@ -1,3 +1,4 @@
+///this is just a random homework i had put it here bcz i need access to it form another computer
 #include<iostream>
 using namespace std;
 
