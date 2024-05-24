@@ -1,4 +1,5 @@
 ///fahrenheit to celcius lmao
+///im not making celcius to fahrenheit cuz celsius is the superior system
 #include<iostream>
 #include<windows.h>
 using namespace std;
