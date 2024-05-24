@@ -1,1 +1,3 @@
- - random code go brrrr
+ - QOL programs
+ - c++ only
+ - exe versions coming soon
