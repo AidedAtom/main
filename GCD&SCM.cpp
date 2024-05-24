@@ -1,9 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int NODD;
-
-void nod(int a, int b){
+int nod(int a, int b){
     while(a!=b){
         if(a>b){
             a-=b;
@@ -11,7 +9,7 @@ void nod(int a, int b){
             b-=a;
         }
     }
-    NODD = a;
+    return a;
 }
 
 int main(){
@@ -21,11 +19,8 @@ int main(){
     int x, y;
     while(1){
     cin>>a>>b;
-    x = a;
-    y = b;
-    nod(a, b);
-    cout<<"GCD = "<<NODD<<endl;
-    cout<<"SCM = "<<x*y/NODD<<endl;
+    cout<<"GCD = "<<nod(a, b);<<endl;
+    cout<<"SCM = "<<a*b/nod(a, b)<<endl;
     }
     return 0;
 }
