@@ -1,5 +1,4 @@
-///btw props to any1 who optimizes this with switch(a[i]){}
-///(im too lazy)
+/// horribly optimized and very ugly code but it works so im not touching it
 #include<iostream>
 #include<cstring>
 #include<cmath>
